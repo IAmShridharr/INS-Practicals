@@ -3,7 +3,7 @@ package practical03;
 import java.util.Scanner;
 
 public class MonoAlphabetic {
-    public static void main(String[] args)throws IndexOutOfBoundsException {
+    public static void main(String[] args) throws IndexOutOfBoundsException {
         char ch, ch1;
         int i, pos;
         String input;
@@ -26,4 +26,3 @@ public class MonoAlphabetic {
         sc.close();
     }
 }
-
